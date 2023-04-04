@@ -1,5 +1,4 @@
 import Textbox from "./textbox";
-import Navbar from "./Navbar";
 
 function App() {
   return (
